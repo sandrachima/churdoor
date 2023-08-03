@@ -19,7 +19,7 @@ function Card(props) {
   return (
  <div className='card'>
 {badgetText &&  <div className='card-badge'> {badgetText}</div>}
-<img src={props.img} className='card-image' />
+<img src={props.img} className='card-image'/>
 <div className='card-stats'>
 <span>{props.Imgicon}</span>
 <FaStar  color='red'/>

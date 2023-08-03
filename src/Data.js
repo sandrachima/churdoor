@@ -105,7 +105,6 @@ openSpots:10,
       
 
         {
-        
         id:7,
         title: "personal-stylist",
         description:"i will share with you what i call  \" positivity Impactful moments of Disappointment. \" Throughout my career, many of my highest moments and losses. only came after trials and losses. But learning from those difficult moments is what gave me the ability above to rach my goals.",
